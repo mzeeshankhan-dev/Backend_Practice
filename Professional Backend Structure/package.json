@@ -1,0 +1,23 @@
+{
+  "name": "professional-backend-structure",
+  "version": "1.0.0",
+  "description": "In this project we learn how to create a professional folder structure",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "M Zeeshan Khan",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.10.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.3"
+  }
+}

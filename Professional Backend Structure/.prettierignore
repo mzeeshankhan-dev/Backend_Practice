@@ -1,0 +1,14 @@
+# Prettierignore Is leya ke ye Paltu files
+# ko Touch nakre jase node_modules
+
+
+node_modules
+dist
+build
+coverage
+.env
+.env.*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+*.md
